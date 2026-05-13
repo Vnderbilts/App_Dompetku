@@ -77,7 +77,7 @@ npx react-native run-ios
 
 ## 📸 Screenshot
 
-> [App Dompetku](app.jpeg)
+![App Dompetku](app.jpeg)
 
 
 ---
